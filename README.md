@@ -25,7 +25,7 @@ Estou focado em desenvolver soluções inovadoras e eficazes, com interesse em �
 ##
 
 
-<a href="https://www.linkedin.com/in/robert-cortez-rudi-971a942a5/" target="_blank">
+<a href="https://www.linkedin.com/in/robert-cortez-rudi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:robertrudi.dev@gmail.com?subject=Assunto%20do%20Email&body=Corpo%20do%20email">
@@ -34,16 +34,5 @@ Estou focado em desenvolver soluções inovadoras e eficazes, com interesse em �
 <a href="https://wa.me/5512974100583?text=Olá%20Robert,%20tudo bem?">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-
-
-
-
-          
-          
-
-
-
-
-
 
 
