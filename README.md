@@ -1,7 +1,7 @@
 ### Olá! Bem vindos ao meu GitHub 🤙
 ##
 
-Olá! Me chamo Robert Cortez Rudi, sou um desenvolvedor com enorme ambição e dedicação em obter novas experiencias e conhecimento. Possuo proficiência em compreender e trazer os melhores resultados e performances possiveis dentro da elaboração de um projeto. Meu propósito não é apenas a codificação, mas também fornecer soluções para desafios que surgirem com melhor eficácia. 
+Olá! Me chamo Robert Cortez Rudi, sou um desenvolvedor com enorme ambição e dedicação em obter novas experiências e conhecimento. Possuo proficiência em compreender e trazer os melhores resultados e performances possiveis dentro da elaboração de um projeto. Meu propósito não é apenas a codificação, mas também fornecer soluções para desafios que surgirem com melhor eficácia. 
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). Além disso, realizo cursos de especialização na linguagem de programação Python e Desenvolvimento Web com HTML, CSS e Javascript na plataforma da OneBitCode. 📕
 
