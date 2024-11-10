@@ -12,7 +12,7 @@ Estou desenvolvendo projetos pessoais para expandir e aprimorar meus conheciment
           
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Cortez-Rudi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Cortez-Rudi&layout=compact&theme=tokyonight&langs_count=10)
 ![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-Cortez-Rudi&show_icons=true&theme=tokyonight)
 
 
