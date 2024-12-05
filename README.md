@@ -16,6 +16,8 @@ Estou desenvolvendo projetos pessoais para expandir e aprimorar meus conheciment
 ![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-Cortez-Rudi&show_icons=true&theme=tokyonight&card_width=300)
 
 
+# Tecnologias 
+
 <div style="display: inline_block"><br/>
  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -24,9 +26,9 @@ Estou desenvolvendo projetos pessoais para expandir e aprimorar meus conheciment
  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  <img align="center" alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
  </div></br> 
- 
-##
 
+
+# Contatos
 
 <a href="https://www.linkedin.com/in/robert-cortez-rudi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
