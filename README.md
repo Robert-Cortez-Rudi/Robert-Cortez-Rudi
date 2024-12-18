@@ -18,7 +18,7 @@ Estou desenvolvendo projetos pessoais para expandir e aprimorar meus conheciment
 
 # Tecnologias 
 
- [![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,postgres,mongodb,js,html,css)](https://skillicons.dev)   
+ [![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mongodb,js,html,css)](https://skillicons.dev)   
 
 
 # Contatos
