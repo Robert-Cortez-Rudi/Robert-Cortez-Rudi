@@ -1,13 +1,36 @@
-### Olá! Bem vindos ao meu GitHub 🤙
+### Hi! Welcome to my GitHub
 ##
 
-Olá! Me chamo Robert Cortez Rudi, sou um desenvolvedor com enorme ambição e dedicação em obter novas experiências e conhecimento. Possuo proficiência em compreender e trazer os melhores resultados e performances possiveis dentro da elaboração de um projeto. Meu propósito não é apenas a codificação, mas também fornecer soluções para desafios que surgirem com melhor eficácia. 
+Back-end developer, proficient in Python with Django.
+Python developer since 2023, improving application performance and integration, providing the best results and I have experience in developing with Django with websites that have more robust systems and Flask for microservices, possible performances within the development of a project. Within these projects I also integrate with Robotic Process Automation (RPA), Web Scraping with Selenium and integration with relational database PostgreSQL and NoSQL MongoDB.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). Além disso, realizo cursos de especialização na linguagem de programação Python e Desenvolvimento Web com HTML, CSS e Javascript na plataforma da OneBitCode. 📕
+My enthusiasm is not only for coding, but also for providing effective solutions to challenges that arise, being part of development teams, excelling in problem-solving and implementing solutions creatively and efficiently to add value and deliver the best possible results with maximum efficiency.
 
+Technical skills:
+• Python;
+• Django;
+• Flask;
+• RESTful APIs;
+• PostgreSQL;
+• MongoDB;
+• Robotic Process Automation (RPA);
+• Web Scraping;
+• Selenium;
+• Git;
+• HTML 5;
+• CSS 3.
 
-Estou desenvolvendo projetos pessoais para expandir e aprimorar meus conhecimentos nas tecnologias nas quais estou estudando, além de aprender novas aplicabilidades e tecnologias, focado em desenvolver soluções inovadoras e eficazes, com interesse em áreas como Automação de Processos, Desenvolvedor Back-end, Inteligência Artificial e Análise de Dados.
+Tools
+• Visual Studio Code;
+• Github
 
+Personal Qualities:
+• Organized;
+• Proactive;
+• Fast Learner;
+• Good at receiving and giving feedback;
+• Agile in application debugging;
+•Communicative
 
           
 
@@ -16,12 +39,12 @@ Estou desenvolvendo projetos pessoais para expandir e aprimorar meus conheciment
 ![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-Cortez-Rudi&show_icons=true&theme=tokyonight&card_width=300)
 
 
-# Tecnologias 
+# Technologies 
 
  [![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mongodb,js,html,css)](https://skillicons.dev)   
 
 
-# Contatos
+# Contacts
 
 <a href="https://www.linkedin.com/in/robert-cortez-rudi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
