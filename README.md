@@ -7,32 +7,31 @@ Python developer since 2023, improving application performance and integration, 
 My enthusiasm is not only for coding, but also for providing effective solutions to challenges that arise, being part of development teams, excelling in problem-solving and implementing solutions creatively and efficiently to add value and deliver the best possible results with maximum efficiency.
 
 Technical skills:
-• Python;
-• Django;
-• Flask;
-• RESTful APIs;
-• PostgreSQL;
-• MongoDB;
-• Robotic Process Automation (RPA);
-• Web Scraping;
-• Selenium;
-• Git;
-• HTML 5;
-• CSS 3.
+
+- Python;
+- Django;
+- Flask;
+- RESTful APIs;
+- PostgreSQL;
+- MongoDB;
+- Robotic Process Automation (RPA);
+- Web Scraping;
+- Selenium;
+- Git;
+- HTML 5;
+- CSS 3.
 
 Tools
-• Visual Studio Code;
-• Github
+- Visual Studio Code;
+- Github
 
 Personal Qualities:
-• Organized;
-• Proactive;
-• Fast Learner;
-• Good at receiving and giving feedback;
-• Agile in application debugging;
-•Communicative
-
-          
+- Organized;
+- Proactive;
+- Fast Learner;
+- Good at receiving and giving feedback;
+- Agile in application debugging;
+- Communicative       
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Cortez-Rudi&layout=compact&theme=tokyonight&langs_count=10&card_width=335)
