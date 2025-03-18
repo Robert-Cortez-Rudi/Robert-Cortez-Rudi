@@ -15,7 +15,7 @@ On my github you will find projects that I try to develop, always solving some c
 
 # Technologies 
 
- [![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mongodb,js,html,css)](https://skillicons.dev)   
+ [![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,selenium,postgres,mongodb,js,nodejs,html,css)](https://skillicons.dev)   
 
 
 # Contacts
