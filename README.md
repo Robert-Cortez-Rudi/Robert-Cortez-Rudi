@@ -1,12 +1,12 @@
 ### Hi! Welcome to my GitHub
 ##
 
-Back-end developer, proficient in Python with Django.
-Python developer since 2023, improving application performance and integration, providing the best results and I have experience in developing with Django with websites that have more robust systems and Flask for microservices, possible performances within the development of a project. Within these projects I also integrate with Robotic Process Automation (RPA), Web Scraping with Selenium and integration with relational database PostgreSQL and NoSQL MongoDB.
+Data analyst, proficient in Python with a focus on data analysis and machine learning.
+Python developer since 2023, improving data processing and insights generation by building efficient data analysis pipelines using Pandas and NumPy, and delivering impactful visualizations with libraries such as Matplotlib, Seaborn, and Plotly. I also apply Machine Learning techniques using Scikit-learn to create predictive models and uncover patterns in data. My work includes integration with relational databases like PostgreSQL and NoSQL databases like MongoDB, and building dashboards with Power BI and Excel to support decision-making.
 
-My enthusiasm is not only for coding, but also for providing effective solutions to challenges that arise, being part of development teams, excelling in problem-solving and implementing solutions creatively and efficiently to add value and deliver the best possible results with maximum efficiency.
+My enthusiasm is not only for coding, but also for providing effective solutions to data challenges, being part of analytical teams, excelling in problem-solving and implementing solutions creatively and efficiently to add value and deliver the best possible results with maximum efficiency.
 
-On my github you will find projects that I try to develop, always solving some current problem, from commerce to business. Feel free to explore my projects and contact me if you are interested in having more details!     
+On my GitHub, you will find projects I am developing, always solving some current problem, from commerce to business. Feel free to explore my projects and get in touch if you are interested in having more details!    
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Cortez-Rudi&layout=compact&theme=tokyonight&langs_count=10&card_width=335)
