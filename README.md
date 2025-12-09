@@ -9,10 +9,6 @@ My enthusiasm is not only for coding, but also for providing effective solutions
 On my GitHub, you will find projects I am developing, always solving some current problem, from commerce to business. Feel free to explore my projects and get in touch if you are interested in having more details!    
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Cortez-Rudi&layout=compact&theme=tokyonight&langs_count=10&card_width=335)
-![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-Cortez-Rudi&show_icons=true&theme=tokyonight&card_width=300)
-
-
 # Technologies 
  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px//>
